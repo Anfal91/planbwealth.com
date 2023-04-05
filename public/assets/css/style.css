@@ -3303,9 +3303,7 @@ a:focus {
   /* display: flex; */
   text-align: center;
 }
-.contact-area .inner-box .inner-content p{
-  text-align: left;
-}
+
 .contact-area .inner-box .inner-content i.fa {
   font-size: 25px;
   float: left;
