@@ -298,7 +298,9 @@ ul {
   background: #222;
   letter-spacing: 5px;
 }
-
+.btn-1{
+  margin: 20px 0px;
+}
 /*contact form*/
 .help-block,
 .with-errors {
