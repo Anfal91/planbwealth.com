@@ -244,6 +244,12 @@ ul {
   z-index: 9;
   transform: translateX(-50%);
 }
+@media only screen and (max-width:500px){
+  .section-title .title-text h2.ngH:before,
+.section-title .title-text h2.ngH:after{
+margin-top: 30px;}
+}
+
 .section-title .title-text h2:after {
   width: 120px;
   height: 2px;
