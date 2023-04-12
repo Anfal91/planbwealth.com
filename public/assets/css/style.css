@@ -639,7 +639,7 @@ a:focus {
 .header .navbar-nav .nav-link {
   line-height: 80px;
   font-size: 14px;
-  color: #fff;
+  /* color: #fff; */
   text-transform: uppercase;
   padding: 0 15px;
   letter-spacing: 1.5px;
